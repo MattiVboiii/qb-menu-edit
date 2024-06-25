@@ -116,6 +116,7 @@ body {
   flex-direction: column;
   box-shadow: 0rem 0rem 0.5rem 0.05rem #000000;
   cursor: pointer;
+  border: 2px solid transparent;
 }
 
 .icon {
@@ -126,7 +127,8 @@ body {
 }
 
 .button:hover {
-  background-color: #dc143c;
+  border: 2px #dc143c solid;
+  box-shadow: 0 0 10px #dc143c, inset  0 0 20px #dc143c;
 }
 
 .title {
