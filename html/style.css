@@ -117,6 +117,7 @@ body {
   box-shadow: 0rem 0rem 0.5rem 0.05rem #000000;
   cursor: pointer;
   border: 2px solid transparent;
+  transition: 0.2s;
 }
 
 .icon {
@@ -128,7 +129,8 @@ body {
 
 .button:hover {
   border: 2px #dc143c solid;
-  box-shadow: 0 0 10px #dc143c, inset  0 0 20px #dc143c;
+  box-shadow: 0 0 10px #dc143c, inset  0 0 30px #dc143c;
+  transition: 0.2s;
 }
 
 .title {
