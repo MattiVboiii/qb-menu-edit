@@ -1,7 +1,9 @@
 # qb-menu
 Menu System for the QBCore Framework
 
-This is a modified version of **[NH Context](https://forum.cfx.re/t/no-longer-supported-standalone-nerohiro-s-context-menu-dynamic-event-firing-menu/2564083)** by **[NeroHiro](https://github.com/nerohiro)**
+# Preview
+![image](https://github.com/MattiVboiii/qb-menu-edit/assets/57048210/657ed23b-fe1b-433a-b14b-67d5455b3ef7)
+
 
 --[[
 EXAMPLE MENU
